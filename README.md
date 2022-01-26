@@ -10,7 +10,7 @@
   
 ## Tek Komutla Kurulum
 
-    apt install git && apt install python && git clone https://github.com/ASER-VANT/ShellsHock.git && cd ShellsHock && pip install -r requirements.txt
+    apt install git && apt install python3 && git clone https://github.com/ASER-VANT/ShellsHock.git && cd ShellsHock && pip install -r requirements.txt
 
 ## Kullanımı
 
